@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b024b29a-36e0-985a-89d5-d073bfeb64c3
 ---
@@ -59,20 +61,6 @@ Curriculum Information
 ### Offered
 
 This course is offered every other Fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with five long tables spanning the classroom, chairs behind each table, and two sliding chalkboards at the front.]({{< resource_file cd2ebe65-5fd1-6dde-f874-86cc942cbd9a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    18.782 is taught in a typical classroom with rows of seats and sliding chalkboards
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
