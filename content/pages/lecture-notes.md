@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  notes for each session of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Arithmetic Geometry (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec1), [18.782 Lecture 1 (SWS)]({{< baseurl >}}/resources/18-782_lecture_1)
+{{% resource_link bb7d15e5-b09a-2af2-f480-847680378699 "Introduction to Arithmetic Geometry (PDF)" %}}, {{% resource_link 6ce14f76-a318-3b91-3655-774e63fa32eb "18.782 Lecture 1 (SWS)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Rational Points on Conics (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec2)
+{{% resource_link 6eae6b14-94f5-78c8-0270-d5cab39ba377 "Rational Points on Conics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Finite Fields (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec3), [18.782 Lecture 3 (SWS)]({{< baseurl >}}/resources/18-782_lecture_3)
+{{% resource_link 9e54a882-c5f1-c445-b05c-7e222d4a843a "Finite Fields (PDF)" %}}, {{% resource_link 00f47db0-a81a-bb00-4c12-a2cee772109c "18.782 Lecture 3 (SWS)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[The Ring of _p_\-adic Integers (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec4)
+{{% resource_link f7cc2a94-e9b4-dc60-178d-a5c0a793e610 "The Ring of _p_\-adic Integers (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[The Field of _p_\-adic Numbers, Absolute Values, Ostrowski's Theorem for Q (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec5)
+{{% resource_link 6fa17c4b-03bb-6826-fd27-31ee2da74e2b "The Field of _p_\-adic Numbers, Absolute Values, Ostrowski's Theorem for Q (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
+Ostrowski's Theorem for Number Fields (No lecture notes but see [Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Product Formula for Number Fields, Completions (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec7)
+{{% resource_link 809d3d3d-9f68-d4d6-eff3-c4f064eee30d "Product Formula for Number Fields, Completions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Hensel's Lemma (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec8)
+{{% resource_link 93ce99bf-80b4-9bb6-94dd-f87467847f0f "Hensel's Lemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Quadratic Forms (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec9)
+{{% resource_link 43669880-049d-09aa-640c-4493063069f6 "Quadratic Forms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Hilbert Symbols (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec10), [18.782 Lecture 10 (SWS)]({{< baseurl >}}/resources/18-782_lecture_10)
+{{% resource_link 196f7a62-7ae6-d75a-b009-bbef96e7c8c9 "Hilbert Symbols (PDF)" %}}, {{% resource_link 9e531a8c-f099-025c-8077-2a7603fb41a3 "18.782 Lecture 10 (SWS)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Weak and Strong Approximation, Hasse-Minkowski Theorem for Q (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec11)
+{{% resource_link 07649a23-c616-75ef-75f1-2a8b77367e93 "Weak and Strong Approximation, Hasse-Minkowski Theorem for Q (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Field Extensions, Algebraic Sets (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec12)
+{{% resource_link f8693d9e-3afa-b505-ba23-b3b91590aa4a "Field Extensions, Algebraic Sets (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Affine and Projective Varieties (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec13)
+{{% resource_link c6986079-bc69-909f-419f-02c76095c60b "Affine and Projective Varieties (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Zariski Topology, Morphisms of Affine Varieties and Affine Algebras (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec14)
+{{% resource_link c94ce47d-d9f7-df6f-272f-aaeeb1ca8767 "Zariski Topology, Morphisms of Affine Varieties and Affine Algebras (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Rational Maps and Function Fields (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec15)
+{{% resource_link 194e47df-6e1f-016e-e3fb-2719abe7e8d3 "Rational Maps and Function Fields (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Products of Varieties and Chevalley's criterion for Completeness (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec16)
+{{% resource_link 62ecd191-12f0-baa3-3f15-1c5644f80b06 "Products of Varieties and Chevalley's criterion for Completeness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Tangent Spaces, Singular Points, Hypersurfaces (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec17)
+{{% resource_link 34da4eaf-b6fb-e4d0-16d0-8aa7914a4be7 "Tangent Spaces, Singular Points, Hypersurfaces (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +182,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Smooth Projective Curves (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec18)
+{{% resource_link bafddc61-1307-dc47-7274-98c8b532e1c2 "Smooth Projective Curves (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Divisors, The Picard Group (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec19)
+{{% resource_link 9d3d7594-8f44-aaa1-b225-8e948f7433c8 "Divisors, The Picard Group (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Degree Theorem for Morphisms of Curves (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec20)
+{{% resource_link 2b600351-9c46-f88c-3618-b12020626887 "Degree Theorem for Morphisms of Curves (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Riemann-Roch Spaces (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec21)
+{{% resource_link 087a8156-400f-a46c-987f-fcd319cf1673 "Riemann-Roch Spaces (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +218,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Proof of the Riemann-Roch Theorem for Curves (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec22)
+{{% resource_link 5859c5f7-d2ad-1eae-5339-d87dce144823 "Proof of the Riemann-Roch Theorem for Curves (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Elliptic Curves and Abelian Varieties (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec23)
+{{% resource_link 4d7cbdfd-e9c1-0df9-9b73-1bf2753611cc "Elliptic Curves and Abelian Varieties (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +236,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Isogenies and Torsion Points, The Nagell-Lutz Theorem (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec24)
+{{% resource_link f37bbbd7-fb8c-7ee4-e077-cc5aa1d2a220 "Isogenies and Torsion Points, The Nagell-Lutz Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[The Mordell-Weil Theorem (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec25)
+{{% resource_link e011c006-f6ae-b950-8319-7457da90598d "The Mordell-Weil Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +254,7 @@ Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource 
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Jacobians of Genus One Curves, The Weil-Chatelet and Tate-Shafarevich Groups (PDF)]({{< baseurl >}}/resources/mit18_782f13_lec26)
+{{% resource_link a60e5c7a-ad91-9102-65ee-1fc686308413 "Jacobians of Genus One Curves, The Weil-Chatelet and Tate-Shafarevich Groups (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

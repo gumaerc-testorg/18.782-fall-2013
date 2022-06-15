@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/cd2ebe655fd16ddef87486cc942cbd9a_18-782_classroom-1.jpg
+file: /courses/18-782-introduction-to-arithmetic-geometry-fall-2013/cd2ebe655fd16ddef87486cc942cbd9a_18-782_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
