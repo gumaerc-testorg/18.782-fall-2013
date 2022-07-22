@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: afe48428-bfbf-4da8-2de5-6dc801dc413d
 ---
@@ -27,7 +31,7 @@ DUE IN
 Lectures 1 and 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset1)
+{{% resource_link b9bf30e3-2ac7-5d84-c453-17397e7e13b1 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 4
@@ -39,7 +43,7 @@ Lecture 4
 Lectures 4 and 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset2)
+{{% resource_link c6fd51a6-325a-cbd6-777b-a43ebdd14500 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 6
@@ -51,7 +55,7 @@ Lecture 6
 Lectures 5, 6, and 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset3)
+{{% resource_link ea1eb610-2a9c-f4ab-0b74-c08bfc2392e0 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 8
@@ -63,7 +67,7 @@ Lecture 8
 Lectures 8 and 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset4)
+{{% resource_link 51b7d147-48c3-12a1-6c0b-9473f497744c "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 10
@@ -75,7 +79,7 @@ Lecture 10
 Lectures 3 through 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset5)
+{{% resource_link fcc8b1e5-f0f0-83a5-0aa3-48b03a1a8204 "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 13
@@ -87,7 +91,7 @@ Lecture 13
 Lectures 12 and 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset6)
+{{% resource_link 88ca77ba-1960-2fd8-ebc7-bc4139803380 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 15
@@ -99,7 +103,7 @@ Lecture 15
 Lectures 13 through 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset7)
+{{% resource_link 0c32e3ce-48a9-6373-74e8-9902ae5c342d "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 17
@@ -111,7 +115,7 @@ Lecture 17
 Lectures 16 and 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset8)
+{{% resource_link 75f6cee3-2501-8a8f-a25d-adb3e448a7e7 "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 19
@@ -123,7 +127,7 @@ Lecture 19
 Lectures 19 and 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset9)
+{{% resource_link f88ba2dd-f40e-d191-1056-1670af50be4a "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 20
@@ -135,7 +139,7 @@ Lecture 20
 Lectures 21 and 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset10)
+{{% resource_link f1249894-9ff8-7192-7f56-ddc2cd8ea9d6 "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 22
@@ -147,7 +151,7 @@ Lecture 22
 Lectures 22 and 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit18_782f13_pset11)
+{{% resource_link 876559f3-1fa5-29ca-a5ba-30e7f663b798 "Problem Set 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 24

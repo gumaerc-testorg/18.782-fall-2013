@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbook and notes, software, problem sets, and
+  grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 281a1fb0-a497-49cf-e5ff-2fd47da33af2
 ---
@@ -34,7 +39,7 @@ Each topic represents 1-2 weeks of lectures
 Textbook and Notes
 ------------------
 
-There is no required text; [lecture notes]({{< baseurl >}}/pages/lecture-notes) will be provided.
+There is no required text; {{% resource_link 276fb8e9-5426-093b-04af-2643fa3757df "lecture notes" %}} will be provided.
 
 We may make reference to material in the following books and online resources
 
