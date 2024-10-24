@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding lecture 1.
-file: /courses/18-782-introduction-to-arithmetic-geometry-fall-2013/6ce14f76a3183b913655774e63fa32eb_18.782_Lecture_1.sws
+file: /ol-ocw-studio-app/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/6ce14f76a3183b913655774e63fa32eb_18.782_Lecture_1.sws
 file_size: 78287
 file_type: application/x-bzip
 learning_resource_types:
