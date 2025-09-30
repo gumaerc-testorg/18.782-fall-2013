@@ -9,7 +9,7 @@ title: Lecture Notes
 uid: 276fb8e9-5426-093b-04af-2643fa3757df
 ---
 
-Some of the theorems presented in lecture will be demonstrated using the [Sage](http://sagemath.org/) computer algebra system, which is based on [Python™](http://www.python.org/). You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the [SageMathCloud™](https://cloud.sagemath.com/?utm_source=sagemath.org&utm_medium=banner).
+Some of the theorems presented in lecture will be demonstrated using the {{% resource_link "37ce527c-f370-4a3c-8c70-ee9d79faf6da" "Sage" %}} computer algebra system, which is based on {{% resource_link "07f01814-7f69-4c15-a266-abb912f792cb" "Python™" %}}. You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the {{% resource_link "bd3e18bb-ba31-4466-bc3f-6a35f79cc321" "SageMathCloud™" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -74,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Ostrowski's Theorem for Number Fields (No lecture notes but see [Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
+Ostrowski's Theorem for Number Fields (No lecture notes but see {{% resource_link "a090adfe-a12e-4f19-904c-b0eeb027a5b5" "Ostrowski's Theorem for Number Fields (PDF)" %}} by Keith Conrad)
 {{< tdclose >}}
 
 {{< trclose >}}
