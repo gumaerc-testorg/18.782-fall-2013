@@ -29,7 +29,7 @@
     "website": "18-782-introduction-to-arithmetic-geometry-fall-2013"
   },
   "course_title": "Introduction to Arithmetic Geometry",
-  "course_description": "This course is an introduction to arithmetic geometry, a subject that lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical [Diophantine problems](http://en.wikipedia.org/wiki/Diophantine_equation) from the modern perspective of algebraic geometry.\n",
+  "course_description": "This course is an introduction to arithmetic geometry, a subject that lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical {{% resource_link \"c4cb5b88-b6a1-4a7f-a919-807dcc8dccbc\" \"Diophantine problems\" %}} from the modern perspective of algebraic geometry.\n",
   "department_numbers": [
     "18"
   ],

@@ -22,7 +22,7 @@ Prerequisites
 Description
 -----------
 
-Arithmetic geometry lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical [Diophantine problems](http://en.wikipedia.org/wiki/Diophantine_equation) from the modern perspective of algebraic geometry. Topics include:
+Arithmetic geometry lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical {{% resource_link "c4cb5b88-b6a1-4a7f-a919-807dcc8dccbc" "Diophantine problems" %}} from the modern perspective of algebraic geometry. Topics include:
 
 1.  Rational points on conics
 2.  _p_\-adic numbers
@@ -44,25 +44,25 @@ There is no required text; {{% resource_link 276fb8e9-5426-093b-04af-2643fa3757d
 We may make reference to material in the following books and online resources
 
 Fulton, William. _Algebraic Curves: An Introduction to Algebraic Geometry_.  
-This book is available for free on [Fulton's website](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf).
+This book is available for free on {{% resource_link "30f5b124-db3e-44e9-83dd-fe36fd3f987d" "Fulton's website" %}}.
 
 Milne, J. S. _Elliptic Curves_. BookSurge Publishers, 2006. ISBN: 9781419652578.  
-This book is also available for free on [Milne's website](http://www.jmilne.org/math/Books/ectext.html), along with [addendum/erratum](http://www.jmilne.org/math/Books/add/EC2006.pdf).
+This book is also available for free on {{% resource_link "094503a8-581f-4b8b-9c70-e15b9b6b9e2b" "Milne's website" %}}, along with {{% resource_link "f9b8e87e-12de-47fd-a32c-5513926fe93d" "addendum/erratum" %}}.
 
 Serre, Jean-Pierre. _A Course in Arithmetic_. Springer-Verlag, 1996. ISBN: 9783540900405.
 
 Shafarevich, I. R. (translated by Miles Reid). _Basic Algebraic Geometry I_. 3rd ed. Springer-Verlag, 2013. ISBN: 9783642379550.
 
-Stichtenoth, H. _Algebraic Function Fields and Codes_. Berlin: Springer, 2008. ISBN 9783540768777. \[Preview with [Google Books](http://books.google.com/books?id=rLTXgNfa4pwC&printsec=frontcover)\]
+Stichtenoth, H. _Algebraic Function Fields and Codes_. Berlin: Springer, 2008. ISBN 9783540768777. \[Preview with {{% resource_link "3d40d942-49fe-44c1-ae5a-0e8943fd7f4d" "Google Books" %}}\]
 
-Silverman, Joseph H. _The Arithmetic of Elliptic Curves_. Springer-Verlag, 2009. ISBN: 9780387094939. ([errata](http://www.math.brown.edu/~jhs/AEC/AECErrata.pdf)) \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
+Silverman, Joseph H. _The Arithmetic of Elliptic Curves_. Springer-Verlag, 2009. ISBN: 9780387094939. ({{% resource_link "0b76831b-b23f-4a67-860e-2e4a42dd8de8" "errata" %}}) \[Preview with {{% resource_link "98ccadf2-377c-48ea-a738-f45b13a16242" "Google Books" %}}\]
 
 Software
 --------
 
-Some of the theorems presented in lecture will be demonstrated using the [Sage](http://sagemath.org/) computer algebra system, which is based on [Python™](http://www.python.org/). Sage is an open-source system that provides both a command-line interface and a browser-based GUI (the Sage notebook). Tutorials and many examples can be found online. You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the [SageMathCloud™](https://cloud.sagemath.com/?utm_source=sagemath.org&utm_medium=banner).
+Some of the theorems presented in lecture will be demonstrated using the {{% resource_link "37ce527c-f370-4a3c-8c70-ee9d79faf6da" "Sage" %}} computer algebra system, which is based on {{% resource_link "07f01814-7f69-4c15-a266-abb912f792cb" "Python™" %}}. Sage is an open-source system that provides both a command-line interface and a browser-based GUI (the Sage notebook). Tutorials and many examples can be found online. You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the {{% resource_link "bd3e18bb-ba31-4466-bc3f-6a35f79cc321" "SageMathCloud™" %}}.
 
-Enrolled students will be given an account on a Sage notebook server set up for this course. But you are free to use other packages such as [Magma](http://magma.maths.usyd.edu.au/magma/), [Maple™](http://www.maplesoft.com/products/maple/) or [Mathematica™](http://www.wolfram.com/mathematica/) if you wish.
+Enrolled students will be given an account on a Sage notebook server set up for this course. But you are free to use other packages such as {{% resource_link "9071bdbf-b319-4b73-9cab-081669a899f0" "Magma" %}}, {{% resource_link "bd324bae-a8ba-4476-aa59-17762ad703b9" "Maple™" %}} or {{% resource_link "59f9355b-b5f3-44a3-aa31-cb69f1b3755d" "Mathematica™" %}} if you wish.
 
 Problem Sets
 ------------
